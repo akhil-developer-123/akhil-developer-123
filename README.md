@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer at Amazon<br>I am proficient in designing and writing production grade code for highly scalable and low latency systems<br>I am interested in distributed systems & open-source programming<br>My skillset includes but not limited to REST APIs, <br>Backend:  Java, SpringBoot, Python, Django <br>Frontend:  React, Redux, Tailwind CSS<br>I am familiar with Machine Learning with Python<br>I am currently learning Blockchain & Web3<br><br>I coach Data structures and Algorithms in Python to help crack Software engineering roles
+I'm a Software Engineer at Google<br>I am proficient in designing and writing production grade code for highly scalable and low latency systems<br>I am interested in distributed systems & open-source programming<br>My skillset includes but not limited to REST APIs, <br>Backend:  Java, SpringBoot, Python, Django <br>Frontend:  React, Redux, Tailwind CSS<br>I am familiar with Machine Learning with Python<br>I am currently learning Blockchain & Web3<br><br>I coach Data structures and Algorithms in Python to help crack Software engineering roles
 
 
 # 💻 Tech Stack:
